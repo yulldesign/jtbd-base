@@ -1,0 +1,14 @@
+{
+  "name": "jtbd-base",
+  "owner": { "name": "Stéphane Giraud" },
+  "metadata": {
+    "description": "Jobs To Be Done for Claude Code: an evidence-backed JTBD knowledge base and 15 runnable research methods."
+  },
+  "plugins": [
+    {
+      "name": "jtbd-base",
+      "source": "./",
+      "description": "Jobs To Be Done knowledge base with evidence tracking, Notion or local backend, and 15 runnable JTBD methods."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "jtbd-base",
+  "displayName": "JTBD Base",
+  "version": "0.1.0",
+  "description": "A Jobs To Be Done knowledge base for Claude Code: performers, jobs, outcomes, alternatives and forces, backed by evidence, in Notion or a local Markdown vault, plus 15 JTBD methods Claude can explain or run on your data.",
+  "author": {
+    "name": "Stéphane Giraud"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jobs-to-be-done",
+    "jtbd",
+    "user-research",
+    "product-discovery",
+    "outcome-driven-innovation",
+    "switch-interview",
+    "notion",
+    "obsidian"
+  ]
+}

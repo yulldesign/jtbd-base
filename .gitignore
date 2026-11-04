@@ -1,0 +1,8 @@
+# The plugin holds no user data. These guard against using a clone as a workspace.
+jtbd.config.yaml
+inbox/
+outputs/
+jtbd-base/
+.obsidian/
+.DS_Store
+__pycache__/

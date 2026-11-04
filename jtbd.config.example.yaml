@@ -1,0 +1,15 @@
+# Copy this file to jtbd.config.yaml, or run the jtbd-base:setup skill which creates it for you.
+# jtbd.config.yaml is personal (Notion IDs, project names) and is listed in .gitignore.
+backend:                   # notion | local
+projects: []               # e.g. [Acme]
+vault_path: jtbd-base      # local backend only
+notion:                    # notion backend only, filled by jtbd-base:setup
+  hub_page:
+  concepts_page:
+  performers_ds:           # collection://<id>
+  jobs_ds:
+  outcomes_ds:
+  alternatives_ds:
+  evidence_ds:
+  view_job_map:            # view://<id>
+  view_opportunity_ranking:
