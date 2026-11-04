@@ -150,7 +150,7 @@ jtbd-base/
 
 ## Privacy
 
-Transcripts stay in `inbox/` on your machine. Only short anonymized quotes (participant codes like P03) go into the base. The auditor and the lint flag quotes that look like they contain personal data.
+Transcripts stay in `inbox/` on your machine. Only short anonymized quotes (participant codes like P03) go into the base. The auditor and the lint flag quotes that look like they contain personal data. Full details in the [Privacy Policy](PRIVACY.md).
 
 ## Credits
 
